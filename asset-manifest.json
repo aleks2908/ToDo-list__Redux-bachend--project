@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/ToDo-list__Redux-bachend--project/static/css/main.5763847e.css",
+    "main.css": "/ToDo-list__Redux-bachend--project/static/css/main.f1d93564.css",
     "main.js": "/ToDo-list__Redux-bachend--project/static/js/main.14cdf385.js",
+    "static/media/bg.jpg": "/ToDo-list__Redux-bachend--project/static/media/bg.c813c8e8be6322a8d717.jpg",
     "index.html": "/ToDo-list__Redux-bachend--project/index.html",
-    "main.5763847e.css.map": "/ToDo-list__Redux-bachend--project/static/css/main.5763847e.css.map",
+    "main.f1d93564.css.map": "/ToDo-list__Redux-bachend--project/static/css/main.f1d93564.css.map",
     "main.14cdf385.js.map": "/ToDo-list__Redux-bachend--project/static/js/main.14cdf385.js.map"
   },
   "entrypoints": [
-    "static/css/main.5763847e.css",
+    "static/css/main.f1d93564.css",
     "static/js/main.14cdf385.js"
   ]
 }
